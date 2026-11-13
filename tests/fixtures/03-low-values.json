@@ -1,0 +1,34 @@
+{
+  "document_id": "fixture-03-low",
+  "test_name": "Low Hemoglobin and Prescription",
+  "disclaimer": "This explains your report. It does not replace your doctor.",
+  "raw_text": "Complete Blood Count\nHemoglobin 9.2 g/dL 12.0 - 15.5\nFerritin 15 ng/mL 20 - 200",
+  "biomarkers": [
+    {
+      "name": "Hemoglobin",
+      "value": 9.2,
+      "unit": "g/dL",
+      "reference_low": 12.0,
+      "reference_high": 15.5,
+      "status": "needs_attention"
+    },
+    {
+      "name": "Ferritin",
+      "value": 15.0,
+      "unit": "ng/mL",
+      "reference_low": 20.0,
+      "reference_high": 200.0,
+      "status": "needs_attention"
+    }
+  ],
+  "prescriptions": [
+    {
+      "name": "Ferrous Sulphate",
+      "dosage": "200 mg",
+      "frequency": "Once daily",
+      "instructions": "Take after meals as advised by doctor"
+    }
+  ],
+  "red_flags": []
+}
+

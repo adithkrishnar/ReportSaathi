@@ -1,0 +1,47 @@
+{
+  "document_id": "fixture-sample-01",
+  "language": "English",
+  "reading_level": "Standard",
+  "disclaimer": "This explains your report. It does not replace your doctor.",
+  "requires_verification": false,
+  "status": "ready",
+  "summary": "Your Complete Blood Count (CBC) report shows that your red blood cells, white blood cells, and platelets are all within the laboratory's printed normal reference ranges.",
+  "biomarkers": [
+    {
+      "name": "Hemoglobin",
+      "value": 13.5,
+      "unit": "g/dL",
+      "reference_low": 12.0,
+      "reference_high": 15.5,
+      "status": "normal",
+      "explanation": "Hemoglobin is the protein in your red blood cells that carries oxygen from your lungs to the rest of your body."
+    },
+    {
+      "name": "WBC Count",
+      "value": 6800,
+      "unit": "/uL",
+      "reference_low": 4000,
+      "reference_high": 11000,
+      "status": "normal",
+      "explanation": "White blood cells are an important part of your immune system that help defend your body against infections."
+    },
+    {
+      "name": "Platelets",
+      "value": 240000,
+      "unit": "/uL",
+      "reference_low": 150000,
+      "reference_high": 450000,
+      "status": "normal",
+      "explanation": "Platelets are tiny cell fragments that help your blood clot normally to stop bleeding when you have an injury."
+    }
+  ],
+  "red_flags": [],
+  "doctor_questions": [
+    "Are these normal values consistent with my overall health history and current symptoms?",
+    "Should I continue my current balanced diet and exercise routine?",
+    "When do you recommend I schedule my next routine blood checkup?",
+    "Do any of these results need to be compared with my previous laboratory records?"
+  ],
+  "prescriptions": []
+}
+

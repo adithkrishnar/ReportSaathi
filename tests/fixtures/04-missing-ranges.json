@@ -1,0 +1,26 @@
+{
+  "document_id": "fixture-04-missing",
+  "test_name": "Biomarker Lacking Printed Range",
+  "disclaimer": "This explains your report. It does not replace your doctor.",
+  "raw_text": "Inflammatory Markers\nC-Reactive Protein 12.5 mg/L\nESR 22 mm/hr 0 - 20",
+  "biomarkers": [
+    {
+      "name": "C-Reactive Protein",
+      "value": 12.5,
+      "unit": "mg/L",
+      "reference_low": null,
+      "reference_high": null,
+      "status": "no_range_on_report"
+    },
+    {
+      "name": "ESR",
+      "value": 22.0,
+      "unit": "mm/hr",
+      "reference_low": 0.0,
+      "reference_high": 20.0,
+      "status": "needs_attention"
+    }
+  ],
+  "red_flags": []
+}
+

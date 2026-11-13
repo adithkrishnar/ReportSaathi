@@ -1,0 +1,21 @@
+{
+  "document_id": "fixture-08-ocr-challenges",
+  "test_name": "OCR Challenges with Special Tokens and Formatting",
+  "disclaimer": "This explains your report. It does not replace your doctor.",
+  "raw_text": "Thyroid Stimulating Hormone (TSH) < 0.5 uIU/mL 0.4 - 4.2\nPlatelet Count 3,25,000 /cumm 150000 - 450000\nVitamin D 25-OH > 100 ng/mL 30 - 100",
+  "test_cases": [
+    {
+      "token": "< 0.5",
+      "expected_parsed_value": 0.5
+    },
+    {
+      "token": "3,25,000",
+      "expected_parsed_value": 325000
+    },
+    {
+      "token": "> 100",
+      "expected_parsed_value": 100
+    }
+  ]
+}
+

@@ -1,0 +1,23 @@
+{
+  "document_id": "fixture-09-multilingual",
+  "test_name": "Trilingual Explanations across Simple, Standard, Detailed",
+  "disclaimer": "This explains your report. It does not replace your doctor.",
+  "translations": {
+    "English": {
+      "Simple": "Hemoglobin is the protein in your blood that carries oxygen throughout your body.",
+      "Standard": "Hemoglobin is the iron-rich protein in red blood cells that transports oxygen from your lungs to your tissues and organs.",
+      "Detailed": "Hemoglobin (Hb) is a tetrameric protein found inside erythrocytes that binds molecular oxygen in pulmonary capillaries for delivery to systemic tissues."
+    },
+    "Hindi": {
+      "Simple": "हीमोग्लोबिन आपके रक्त में मौजूद प्रोटीन है जो पूरे शरीर में ऑक्सीजन पहुंचाता है।",
+      "Standard": "हीमोग्लोबिन लाल रक्त कोशिकाओं में मौजूद प्रोटीन है जो फेफड़ों से शरीर के सभी अंगों तक ऑक्सीजन ले जाता है।",
+      "Detailed": "हीमोग्लोबिन लाल रक्त कोशिकाओं में स्थित एक महत्वपूर्ण प्रोटीन है जो फेफड़ों से ऑक्सीजन को शरीर के ऊतकों तक पहुंचाता है।"
+    },
+    "Kannada": {
+      "Simple": "ಹಿಮೋಗ್ಲೋಬಿನ್ ನಿಮ್ಮ ರಕ್ತದಲ್ಲಿರುವ ಪ್ರೋಟೀನ್ ಆಗಿದ್ದು, ಇದು ದೇಹದಾದ್ಯಂತ ಆಮ್ಲಜನಕವನ್ನು ಸಾಗಿಸುತ್ತದೆ.",
+      "Standard": "ಹಿಮೋಗ್ಲೋಬಿನ್ ಕೆಂಪು ರಕ್ತ ಕಣಗಳಲ್ಲಿರುವ ಪ್ರೋಟೀನ್ ಆಗಿದ್ದು, ಶ್ವಾಸಕೋಶದಿಂದ ಅಂಗಗಳಿಗೆ ಆಮ್ಲಜನಕವನ್ನು ಸಾಗಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "Detailed": "ಹಿಮೋಗ್ಲೋಬಿನ್ ಕೆಂಪು ರಕ್ತ ಕಣಗಳಲ್ಲಿರುವ ಕಬ್ಬಿಣ-ಸಮೃದ್ಧ ಪ್ರೋಟೀನ್ ಆಗಿದ್ದು, ಶ್ವಾಸಕೋಶದಿಂದ ಅಂಗಾಂಶಗಳಿಗೆ ಆಮ್ಲಜನಕವನ್ನು ಸಾಗಿಸುತ್ತದೆ."
+    }
+  }
+}
+

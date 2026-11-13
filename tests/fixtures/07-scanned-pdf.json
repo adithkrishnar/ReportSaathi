@@ -1,0 +1,15 @@
+{
+  "document_id": "fixture-07-scanned",
+  "test_name": "Multi-Column Scanned PDF",
+  "disclaimer": "This explains your report. It does not replace your doctor.",
+  "source_file": "07-scanned-pdf.txt",
+  "expected_biomarkers": [
+    "Hemoglobin",
+    "Total Leukocyte Count",
+    "Platelet Count",
+    "Packed Cell Volume",
+    "Mean Corpuscular Volume",
+    "Mean Corpuscular Hb"
+  ]
+}
+

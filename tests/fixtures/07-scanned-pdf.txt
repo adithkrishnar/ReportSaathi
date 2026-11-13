@@ -1,0 +1,13 @@
+Laboratory Report Summary
+Patient Name: Anonymous Sample
+Doctor: Dr. Consulting MD
+Date: 2026-11-10
+
+TEST NAME                    RESULT      UNIT      REFERENCE RANGE
+Hemoglobin                   14.0        g/dL      13.0 - 17.0
+Total Leukocyte Count        6500        /cumm     4000 - 11000
+Platelet Count               210000      /cumm     150000 - 450000
+Packed Cell Volume           42.0        %         40.0 - 50.0
+Mean Corpuscular Volume      88.0        fL        83.0 - 101.0
+Mean Corpuscular Hb          29.5        pg        27.0 - 32.0
+

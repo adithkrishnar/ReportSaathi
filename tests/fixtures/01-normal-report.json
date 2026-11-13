@@ -1,0 +1,34 @@
+{
+  "document_id": "fixture-01-normal",
+  "test_name": "Normal Complete Blood Count",
+  "disclaimer": "This explains your report. It does not replace your doctor.",
+  "raw_text": "Complete Blood Count (CBC)\nHemoglobin 14.2 g/dL 13.0 - 17.0\nWBC Count 7200 /uL 4000 - 11000\nPlatelets 260000 /uL 150000 - 450000",
+  "biomarkers": [
+    {
+      "name": "Hemoglobin",
+      "value": 14.2,
+      "unit": "g/dL",
+      "reference_low": 13.0,
+      "reference_high": 17.0,
+      "status": "normal"
+    },
+    {
+      "name": "WBC Count",
+      "value": 7200,
+      "unit": "/uL",
+      "reference_low": 4000,
+      "reference_high": 11000,
+      "status": "normal"
+    },
+    {
+      "name": "Platelets",
+      "value": 260000,
+      "unit": "/uL",
+      "reference_low": 150000,
+      "reference_high": 450000,
+      "status": "normal"
+    }
+  ],
+  "red_flags": []
+}
+

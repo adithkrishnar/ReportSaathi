@@ -1,0 +1,10 @@
+{
+  "document_id": "fixture-05-blurry",
+  "test_name": "Noisy Blurry Report",
+  "disclaimer": "This explains your report. It does not replace your doctor.",
+  "raw_text": "??~~~__|||| H3m0gl0b1n ..### 13..5 g/dL ???~~~",
+  "noise_ratio": 0.32,
+  "requires_verification": true,
+  "status": "unclear"
+}
+
